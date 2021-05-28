@@ -7,6 +7,7 @@ def division(a, b):
 def addition(a, b):
   return a + b
 
+#This function is for Multiplying two numbers and will return the sum of a and b
 def multiplication(a, b):
   return a * b
   
