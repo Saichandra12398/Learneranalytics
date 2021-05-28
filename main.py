@@ -3,6 +3,7 @@ def subtract(a,b):
   return a-b
 def division(a, b):
   return a/b
+#This function is for adding two numbers and will return the sum of a and b
 def addition(a, b):
   return a + b
 def __main__():
