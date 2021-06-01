@@ -6,6 +6,34 @@
             "keyStrokeTimeStamp": "Tue Jun 01 2021 11:23:31",
             "keyStrokeInfo": "",
             "position": "6,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Tue Jun 01 2021 11:25:23",
+            "keyStrokeInfo": "",
+            "position": "5,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 01 2021 11:25:23",
+            "keyStrokeInfo": "",
+            "position": "5,10"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 01 2021 11:25:24",
+            "keyStrokeInfo": "",
+            "position": "5,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 01 2021 11:25:24",
+            "keyStrokeInfo": ";",
+            "position": "5,9"
         }
     ]
 }
